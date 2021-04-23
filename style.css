@@ -11,3 +11,13 @@
     width: 20px;
     background-image: url(turro.jpg);
 }
+
+.jugador-uno {
+    background-color: red;
+    border-radius: 10px solid;  
+}
+
+.jugador-dos {
+    background-color: blue;
+    border-radius: 10px solid;  
+}
